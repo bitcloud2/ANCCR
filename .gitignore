@@ -1,5 +1,6 @@
 
 *.asv
+*.ipynb_checkpoints
 figures and data/
 *.ai
 *.mat
